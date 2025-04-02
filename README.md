@@ -22,3 +22,9 @@ Workbook:
 Set the count of workbooks. 
 Logic Apps: 
 Set the count of logic apps. 
+
+Steps to deploy the Template:
+Copy the ARM template 
+Create the custom ARM template and provide the subscription ID, Resource group, Workspace Name and click Review and create.
+Your deployment will get succeeded
+Now go to Microsoft Sentinel to view the workbook
